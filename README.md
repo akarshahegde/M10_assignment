@@ -5,6 +5,6 @@ S3 bucket link: https://us-east-1.console.aws.amazon.com/s3/buckets/database-upd
 Tools used:
 - Selenium
 - Webdriver manager
-pandas
-Time
-boto3
+- pandas
+- Time
+- boto3
